@@ -1,0 +1,29 @@
+
+h1{
+	text-align: center;
+}
+
+body {
+	font-family: Palatino,Georgia,'Times New Roman',serif;
+	font-size: 18px;
+	line-height: 1.4em;
+}
+
+#recpieinfo {
+	background-color: #AEDB9F;
+	opacity: 0.7;
+	padding: 1em;
+	margin-top: 2em;
+	border: 1.5px solid #000;
+	text-align: center;
+	color: black;
+}
+
+#Nutrition {
+	background-color: #AEDB9F;
+	opacity: 0.6;
+	padding: 1em;
+	margin: 2em 4em 2em 4em;
+	border: 1.5px solid #000;
+	color: black;
+}

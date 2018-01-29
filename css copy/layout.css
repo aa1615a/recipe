@@ -1,0 +1,16 @@
+
+/* this box holds page content */
+.container {
+	margin: 1em auto 2em auto;
+	padding: 1em;
+	width: 700px;
+	background-image: url("photos/backgrounddots.jpg");
+	background-repeat: repeat-y;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 15px 40px 5px grey;
+}

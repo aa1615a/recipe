@@ -1,18 +1,37 @@
 
+body{
+	background-image: url("../photos/backgrounddots.jpg");
+	background-repeat: repeat;
+}
+
 /* this box holds page content */
 .container {
 	margin: 1em auto 2em auto;
 	padding: 1em;
 	width: 700px;
-	background-image: url("photos/backgrounddots.jpg");
-	background-repeat: repeat-y;
+	background-color: white;
 }
 
 img {
 	float: right;
-	display: block;
 	margin-left: 20px;
 	margin-right: auto;
-	box-shadow: 10px 15px 40px 5px grey;
+	box-shadow: 10px 15px 50px 4px grey;
 }
 
+#recpieinfo {
+	background-color: #E5F2C2;
+	opacity: 0.7;
+	padding: 1em;
+	margin-top: 2em;
+	border: 1.5px solid #000;
+	width: 400px;
+}
+
+#Nutrition {
+	background-color: #E5F2C2;
+	opacity: 0.6;
+	padding: 1em;
+	margin: 2em 4em 2em 4em;
+	border: 1.5px solid #000;
+}

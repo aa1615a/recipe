@@ -1,16 +1,22 @@
 
 h1{
+	font-family: Georgia,'Times New Roman',serif;
 	text-align: center;
 	letter-spacing: .09em;
 	padding-bottom: 35px;
 }
 
-h4{
-font-weight: 100px;
+h2{
+	font-family: Georgia,'Times New Roman',serif;
+}
+
+h4 {
+	font-weight: 100px;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
 }
 
 body {
-	font-family: Bookman,Georgia,'Times New Roman',serif;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	line-height: 1.4em;
 }
